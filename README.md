@@ -6,8 +6,7 @@
 ### Research & Study Experience
 #### Yonsei University · ACL Lab | Research Internship
 `2026 – Present`
-- Under Prof. Sang-Young Park
-- Aerospace Engineering · Satellite Systems · ADCS · Flight Software
+- Under Prof. Sang-Young Park · Aerospace Engineering · Satellite Systems · ADCS · Flight Software
 #### Konkuk University · INCL Lab | Aerospace Engineering Study
 `Jun. 2026 – Jul. 2026`
 - Participated in an aerospace engineering study group under Prof. Sangkyung Sung
