@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Minseol 👋</h1>
+<h1 align="center">Hi, I'm Minseol</h1>
 
 ### Education
 - Dongguk University Computer Science student
