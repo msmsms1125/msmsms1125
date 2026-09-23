@@ -14,6 +14,9 @@
 #### Konkuk University | Aerospace Engineering Study
 `Jun. 2026 – Jul. 2026`
 - Participated in an aerospace engineering study group under Prof. Sangkyung Sung
+#### Yonsei University | Aerospace Research Internship
+`2026 – Present`  
+Under Prof. Sang-Young Park · Aerospace Engineering · Satellite Systems · ADCS · Flight Software
 
 ### Skills
 
