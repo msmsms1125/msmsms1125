@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Minseol 👋</h1>
 
 ### About Me
-- 🎓 Computer Science student
-- 🛰️ Interested in ADCS / FSW / Embedded SW
-- 💻 C / C++ / Python / MATLAB / Linux
-- 🔬 Experience with INS/GNSS and EKF-based navigation
-- ⚙️ Interested in real-world software running on embedded systems
+- 🎓 Dongguk University Computer Science student
 
----
+### 🔬 Research & Study Experience
+#### Dongguk University | Individual Research
+`Dec. 2025 – Jan. 2026`
+- Conducted individual research under Prof. Yeonho Yoo
+#### Hanyang University | Research Internship
+`Mar. 2026 – Jun. 2026`
+- Reviewed research papers on Real-Time Operating Systems (RTOS)
+- Studied CAN communication-related research
+#### Konkuk University | Aerospace Engineering Study
+`Jun. 2026 – Jul. 2026`
+- Participated in an aerospace engineering study group under Prof. Sangkyung Sung
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
