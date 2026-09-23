@@ -4,19 +4,21 @@
 - Dongguk University Computer Science student
 
 ### Research & Study Experience
-#### Dongguk University | Individual Research
-`Dec. 2025 – Jan. 2026`
-- Conducted individual research under Prof. Yeonho Yoo
-#### Hanyang University | Research Internship
+#### Yonsei University · ACL Lab | Research Internship
+`2026 – Present`
+- Under Prof. Sang-Young Park
+- Aerospace Engineering · Satellite Systems · ADCS · Flight Software
+#### Konkuk University · INCL Lab | Aerospace Engineering Study
+`Jun. 2026 – Jul. 2026`
+- Participated in an aerospace engineering study group under Prof. Sangkyung Sung
+- Navigation · INS/GNSS · Aerospace Systems
+#### Hanyang University · OSDC Lab | Research Internship
 `Mar. 2026 – Jun. 2026`
 - Reviewed research papers on Real-Time Operating Systems (RTOS)
 - Studied CAN communication-related research
-#### Konkuk University | Aerospace Engineering Study
-`Jun. 2026 – Jul. 2026`
-- Participated in an aerospace engineering study group under Prof. Sangkyung Sung
-#### Yonsei University | Aerospace Research Internship
-`2026 – Present`  
-Under Prof. Sang-Young Park · Aerospace Engineering · Satellite Systems · ADCS · Flight Software
+#### Dongguk University | Individual Research
+`Dec. 2025 – Jan. 2026`
+- Conducted individual research under Prof. Yeonho Yoo
 
 ### Skills
 
