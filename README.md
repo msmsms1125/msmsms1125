@@ -19,6 +19,18 @@
 `Dec. 2025 – Jan. 2026`
 - Conducted individual research under Prof. Yeonho Yoo
 
+---
+
+### Projects
+- **[INS/GNSS 결합항법 오차 분석](https://github.com/msmsms1125/EKF-Project)**  
+  MATLAB 기반 INS/GNSS 항법 결과 분석 및 초기 정렬·EKF 설정 변화 비교
+- **[Raspberry Pi 기반 K3s 성능 분석](https://github.com/msmsms1125/k3s-lifecycle-profiling)**  
+  ARM64 Linux 환경에서 K3s·TinyLlama 워크로드의 실행 시간 및 자원 사용량 분석
+- **[동문서답 · 동대문구 교육정보 AI 챗봇](https://github.com/msmsms1125/Dongmunseodab_chat)**  
+  React 기반 교육정보 챗봇 웹 인터페이스 구현
+
+---
+
 ### Skills
 
 #### Systems / Infra
@@ -47,13 +59,3 @@
 ![SSH](https://img.shields.io/badge/SSH-333333?style=flat-square&logo=gnometerminal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
----
-
-### Projects
-- **[INS/GNSS 결합항법 오차 분석](https://github.com/msmsms1125/EKF-Project)**  
-  MATLAB 기반 INS/GNSS 항법 결과 분석 및 초기 정렬·EKF 설정 변화 비교
-- **[Raspberry Pi 기반 K3s 성능 분석](https://github.com/msmsms1125/k3s-lifecycle-profiling)**  
-  ARM64 Linux 환경에서 K3s·TinyLlama 워크로드의 실행 시간 및 자원 사용량 분석
-- **[동문서답 · 동대문구 교육정보 AI 챗봇](https://github.com/msmsms1125/Dongmunseodab_chat)**  
-  React 기반 교육정보 챗봇 웹 인터페이스 구현
